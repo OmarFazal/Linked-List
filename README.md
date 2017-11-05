@@ -1,2 +1,3 @@
 # Linked-List
-//linked lis
+
+linked list
